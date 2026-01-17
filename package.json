@@ -1,0 +1,37 @@
+{
+  "name": "binarytodecimal2025edition",
+  "version": "1.0.0",
+  "description": "Convert binary to decimal",
+  "keywords": [
+    "binary-to-decimal"
+  ],
+  "homepage": "https://github.com/10xly/binarytodecimal2025edition#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/binarytodecimal2025edition/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/binarytodecimal2025edition.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@positive-numbers/one": "^3.0.0",
+    "@positive-numbers/zero": "^6.0.0",
+    "@rightpad/convert2string": "^1.0.0",
+    "@stdlib/assert-is-number": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.2",
+    "countingup": "^0.0.1",
+    "empty-string": "^1.1.1",
+    "es-logical-and-operator": "^1.0.0",
+    "es-logical-not-operator": "^1.0.0",
+    "immediate-error": "^11.1.2",
+    "reverse-string": "^0.0.6"
+  },
+  "devDependencies": {}
+}
